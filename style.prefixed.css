@@ -23,6 +23,8 @@ h2 {
 
 p {
     color: black;
+    display: -ms-flexbox;
+    display: flex;
 }
 
 .chorus {
